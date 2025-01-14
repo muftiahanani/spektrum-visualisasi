@@ -24,3 +24,9 @@ Visualisasi ini dapat digunakan sebagai referensi warna untuk:
 - Kalibrasi sistem pembacaan dosimeter
 - Verifikasi perubahan warna film dosimeter
 - Estimasi dosis radiasi berdasarkan perubahan warna
+
+## Kode Visualisasi
+Kode Python untuk membuat visualisasi tersedia di file `visualisasi.py`. Untuk menjalankan kode:
+1. Pastikan Python dan library yang diperlukan sudah terinstal:
+   ```bash
+   pip install matplotlib numpy
